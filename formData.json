@@ -1,0 +1,14 @@
+[
+  {
+    "make": "Chevrolet",
+    "model": "Camaro",
+    "year": 2020,
+    "color": "yellow"
+  },
+  {
+    "make": "Honda",
+    "model": "Accord",
+    "year": 2019,
+    "color": "silver"
+  }
+]
